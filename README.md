@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/mikakane/mikakane/raw/master/IMG_0437.jpg)
+
 <!--
 **mikakane/mikakane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
